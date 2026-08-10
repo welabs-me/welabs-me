@@ -18,21 +18,21 @@ Developing [Iron Kernel](https://github.com/BravesDev/ironkernel);<br>
 <br clear="both">
 
 <div data-importer="techs" align="center">
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="25" alt="cplusplus logo"  />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="35" alt="cplusplus logo"  />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="25" alt="dot-net logo"  />
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="35" alt="dot-net logo"  />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="25" alt="arduino logo"  />
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="35" alt="arduino logo"  />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="25" alt="opencv logo"  />
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="35" alt="opencv logo"  />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/opengl/5586A4" height="25" alt="opengl logo"  />
+  <img src="https://cdn.simpleicons.org/opengl/5586A4" height="35" alt="opengl logo"  />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="25" alt="mysql logo"  />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="35" alt="mysql logo"  />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="25" alt="linux logo"  />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="35" alt="linux logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="25" alt="cmake logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="35" alt="cmake logo"  />
 </div>
 
 
