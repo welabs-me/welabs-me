@@ -15,14 +15,31 @@ Developing [Iron Kernel](https://github.com/BravesDev/ironkernel);<br>
 - 💬 `ping` me about **low-level**, **multi-platform dev**, **hacking**, **networking**, **modding**
 
 ---
+<br clear="both">
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="25" alt="cplusplus logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="25" alt="dot-net logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="25" alt="arduino logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="25" alt="opencv logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/opengl/5586A4" height="25" alt="opengl logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="25" alt="mysql logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="25" alt="linux logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="25" alt="cmake logo"  />
+</div>
+
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=welabsdev&theme=transparent&hide_border=true&side_items_color=555&stroke_color=0078D4" height="150" />
 </div>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/welabsdev/welabsdev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 <br>
 
