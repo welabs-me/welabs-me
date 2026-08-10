@@ -20,7 +20,7 @@ Developing [Iron Kernel](https://github.com/BravesDev/ironkernel);<br>
 <img src="https://streak-stats.demolab.com?user=welabsdev&theme=transparent&hide_border=true&side_items_color=555&stroke_color=0078D4" height="150" />
 </div>
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/welabsdev/welabsdev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/welabsdev/welabsdev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 <br>
