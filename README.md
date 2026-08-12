@@ -9,7 +9,7 @@
 
 Developing [Iron Kernel](https://github.com/BravesDev/ironkernel);<br>
 
-- ⚙️ I use daily: `.cpp`, `.c`, `.cs`, `.asm`, `.cmake`, `.arduino`, `.opencv`, `.opengl`,
+- ⚙️ I use daily: `.C/C++`, `.NET`, `.Assembly`, `.Rust`, `.Arduino`, `.OpenCV`, `.OpenGL`, `.Linux`, `.CLI`, `.Robotics`
 - 🌍 I'm mostly active within **Systems Programming** & **Hardware Modding**
 - 🛠️ Specialized: **BIOS Modding**, **Hardware Mod**, **Reverse Engineering**, **Kernel Dev**
 - 💬 `ping` me about **low-level**, **multi-platform dev**, **hacking**, **networking**, **modding**
