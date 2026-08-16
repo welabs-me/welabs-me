@@ -51,15 +51,8 @@ Developing [Iron Kernel](https://github.com/BravesDev/ironkernel);<br>
 
 
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=welabsdev&theme=transparent&hide_border=true&side_items_color=555&stroke_color=0078D4" height="150" />
-</div>
+###
 
+<img data-importer="snake" src="https://raw.githubusercontent.com/welabsdev/welabsdev/snake-output/snake.svg" alt="Snake animation" />
 
-<br>
-
-<div align="center">
-  <a href="https://twitter.com/wendersondiaszx"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="https://discord.gg/zWendersonBR"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" /></a>
-  <a href="mailto:welabsme@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</div>
+###
