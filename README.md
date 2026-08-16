@@ -16,7 +16,7 @@ Developing [Iron Kernel](https://github.com/BravesDev/ironkernel);<br>
 - 💬 `ping` me about **low-level**, **multi-platform dev**, **hacking**, **networking**, **modding**
 
 ###
-
+---
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -46,7 +46,7 @@ Developing [Iron Kernel](https://github.com/BravesDev/ironkernel);<br>
 ###
 
 
----
+
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=welabsdev&theme=transparent&hide_border=true&side_items_color=555&stroke_color=0078D4" height="150" />
