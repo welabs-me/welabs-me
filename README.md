@@ -11,17 +11,9 @@
 
 Developing [Iron Kernel](https://github.com/BravesDev/ironkernel);<br>
 
-- ⚙️ I use daily: `C/C++`, `.NET`, `.Assembly`, `.Rust`, `.Arduino`, `.OpenCV`, `.OpenGL`, `.Linux`, `.CLI`, `.Robotics`
 - 🌍 I'm mostly active within **Systems Programming** & **Hardware Modding**
 - 🛠️ Specialized: **BIOS Modding**, **Hardware Mod**, **Reverse Engineering**, **Kernel Dev**
 - 💬 `ping` me about **low-level**, **multi-platform dev**, **hacking**, **networking**, **modding**
-
----
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=welabsdev&theme=transparent&hide_border=true&side_items_color=555&stroke_color=0078D4" height="150" />
-</div>
-
 
 ###
 
@@ -52,6 +44,14 @@ Developing [Iron Kernel](https://github.com/BravesDev/ironkernel);<br>
 </div>
 
 ###
+
+
+---
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=welabsdev&theme=transparent&hide_border=true&side_items_color=555&stroke_color=0078D4" height="150" />
+</div>
+
 
 <br>
 
