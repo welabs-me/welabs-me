@@ -51,8 +51,8 @@ Developing [Iron Kernel](https://github.com/BravesDev/ironkernel);<br>
 
 
 
-###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/welabsdev/welabsdev/snake-output/snake.svg" alt="Snake animation" />
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=welabsdev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-###
