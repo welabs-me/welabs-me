@@ -7,8 +7,6 @@
 
 ### Hello there 👋 Im Wenderson Dias
 
-#### A Low-Level Developer by day ☼ and a Hardware Modder by night ☾
-
 Developing [Iron Kernel](https://github.com/BravesDev/ironkernel);<br>
 
 - 🌍 I'm mostly active within **Systems Programming** & **Hardware Modding**
